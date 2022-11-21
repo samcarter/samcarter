@@ -30,3 +30,11 @@
 
 ### TUG Annual Meeting
 - TopTeX - a new Q&A site for TeX ( [video](https://vimeo.com/773293592) )
+
+## 2018
+
+### TUG Annual Meeting
+- A short introduction to the TikZducks package (with Paulo Cereda)
+
+### Dante Frühjahrstagung
+- TikZducks
