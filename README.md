@@ -26,7 +26,7 @@
 - Neuigkeiten aus dem TikZ Zoo ( [video](https://vimeo.com/773292978) )
 - TopTeX - eine Q&A Seite für TeX ( [video](https://vimeo.com/773293022) )
 
-### 2020
+## 2020
 
 ### TUG Annual Meeting
 - TopTeX - a new Q&A site for TeX ( [video](https://vimeo.com/773293592) )
