@@ -12,3 +12,7 @@
 
 - The TikZbricks package ( [video](https://vimeo.com/manage/videos/773294015) )
 - The jigsaw package ( [video](https://vimeo.com/manage/videos/773294117) ) 
+
+### Dante Frühjahrstagung
+
+- Das Sillypage Paket ( [video](https://vimeo.com/manage/videos/773292271) )
