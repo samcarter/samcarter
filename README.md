@@ -19,7 +19,7 @@
 ### TUG Annual Meeting
 - News from the TikZ zoo ( [video](https://vimeo.com/773293865) )
 
-### Journees GuTenberg
+### Journée GUTenberg
 - Une courte introduction aux extensions TikZducks et TikZlings ( [video](https://vimeo.com/773296726) )
 
 ### Dante Frühjahrstagung
