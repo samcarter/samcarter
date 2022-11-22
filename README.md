@@ -33,7 +33,7 @@
 
 ## 2018
 **TUG Annual Meeting**
-- A short introduction to the TikZducks package (with Paulo Cereda, [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/.pdf) )
+- A short introduction to the TikZducks package (with Paulo Cereda, [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf) )
 
 **Dante Frühjahrstagung**
-- TikZducks ( [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/.pdf) )
+- TikZducks ( [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf) )
