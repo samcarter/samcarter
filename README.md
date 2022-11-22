@@ -5,7 +5,7 @@
 **Dante Herbsttagung**
 - Das Tcolorbox Inner Theme für Beamer ( [video](https://vimeo.com/773291199) )
 - Das TikZbricks Paket ( [video](https://vimeo.com/773291903) )
-- Das Jigsaw Paket ( [video](https://vimeo.com/773292029) )
+- Das Jigsaw Paket ( [video](https://vimeo.com/773292029) [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_TikZbricks.pdf) )
 
 **TUG Annual Meeting**
 - The TikZbricks package ( [video](https://vimeo.com/773294015) )
