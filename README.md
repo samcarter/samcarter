@@ -1,3 +1,13 @@
+# TeX Packages
+
+- TikZducks ( [CTAN](https://www.ctan.org/pkg/tikzducks), [github](https://github.com/samcarter/tikzducks) )
+- TikZlings ( [CTAN](https://www.ctan.org/pkg/tikzlings), [github](https://github.com/samcarter/tikzlings) )
+- TikZbricks ( [CTAN](https://www.ctan.org/pkg/tikzbricks), [github](https://github.com/samcarter/TikZbricks) )
+- Jigsaw ( [CTAN](https://www.ctan.org/pkg/jigsaw), [github](https://github.com/samcarter/jigsaw) )
+- Tcolorbox beamer inner theme ( [CTAN](https://www.ctan.org/pkg/beamertheme-tcolorbox), [github](https://github.com/samcarter/beamertheme-tcolorbox) )
+
+Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](https://www.ctan.org/pkg/beamer), [github](https://github.com/josephwright/beamer) ) and contributed to the sillypage package ( [CTAN](https://www.ctan.org/pkg/sillypage), [github](https://github.com/cereda/sillypage) ).
+
 # TeX Talks
 
 ## 2022
