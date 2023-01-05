@@ -20,6 +20,11 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](http
 
 # TeX Talks
 
+## 2023
+
+**TUG Annual Meeting**
+- The tcolorbox inner beamer theme ( [abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt) )
+
 ## 2022
 
 **Dante Herbsttagung**
