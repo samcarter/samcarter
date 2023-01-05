@@ -2,6 +2,12 @@
 
 You can find me on Mastodon: [@samcarter@fosstodon.org](https://fosstodon.org/@samcarter)
 
+I'm also active on several Q&A sites, e.g.:
+
+- [TopAnswers TeX](https://topanswers.xyz/tex)
+- [TeXnique.fr](https://texnique.fr/osqa/)
+- [Codidact Power Users](https://powerusers.codidact.com/categories/61)
+
 # TeX Packages
 
 - TikZducks ( [CTAN](https://www.ctan.org/pkg/tikzducks), [github](https://github.com/samcarter/tikzducks) )
