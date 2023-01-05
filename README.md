@@ -1,3 +1,7 @@
+# Contact
+
+You can find me on Mastodon: [@samcarter@fosstodon.org](https://fosstodon.org/@samcarter)
+
 # TeX Packages
 
 - TikZducks ( [CTAN](https://www.ctan.org/pkg/tikzducks), [github](https://github.com/samcarter/tikzducks) )
