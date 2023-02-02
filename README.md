@@ -2,8 +2,6 @@
 
 You can find me on Mastodon: [@samcarter@fosstodon.org](https://fosstodon.org/@samcarter)
 
-<a rel="me" href="https://fosstodon.org/@samcarter">Mastodon</a>
-
 I'm also active on several Q&A sites, e.g.:
 
 - [TopAnswers TeX](https://topanswers.xyz/tex)
