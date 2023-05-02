@@ -24,7 +24,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](http
 
 **TUG Annual Meeting**
 - The tcolorbox inner beamer theme ( [abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt) )
-- Behind the scenes of the Great TikZlings Christmas Extravaganza (with Ulrike & Gert Fischer, Carla Maggi and Paulo Cereda [abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt) )
+- Behind the scenes of the Great TikZlings Christmas Extravaganza (with Ulrike & Gert Fischer, Carla Maggi and Paulo Cereda, [abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt) )
 - Beamer news (with Joseph Wright [abstract](https://tug.org/tug2023/abstracts/wright-beamernews.txt) )
 
 ## 2022
