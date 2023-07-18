@@ -61,7 +61,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](http
 
 ## 2018
 **TUG Annual Meeting**
-- A short introduction to the TikZducks package (with Paulo Cereda, [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf) )
+- A short introduction to the TikZducks package (with Paulo Cereda, [video](https://www.youtube.com/watch?v=Ps2FK0q6mLc), [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf) )
 
 **Dante Frühjahrstagung**
 - TikZducks ( [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf) )
