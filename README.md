@@ -25,7 +25,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](http
 
 **BayTeX**
 
-- Neuigkeiten von Beamer ( [slides](BayTeX2023_BeamerNews.pdf) )
+- Neuigkeiten von Beamer ( [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2023_BeamerNews.pdf) )
 
 **TUG Annual Meeting**
 - The tcolorbox inner beamer theme ( [abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt), [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf) )
