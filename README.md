@@ -23,6 +23,10 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ( [CTAN](http
 
 ## 2023
 
+**BayTeX**
+
+- Neuigkeiten von Beamer ( [slides](BayTeX2023_BeamerNews.pdf) )
+
 **TUG Annual Meeting**
 - The tcolorbox inner beamer theme ( [abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt), [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf) )
 - Behind the scenes of the Great TikZlings Christmas Extravaganza (with Ulrike & Gert Fischer, Carla Maggi and Paulo Cereda, [abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt), [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Extravaganza.pdf)  )
