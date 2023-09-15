@@ -75,10 +75,8 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 - samcarter (2023): "Book review: LaTeX Graphics with TikZ by Stefan Kottwitz", TUGboat 44.3 
 <!-- ([doi](), [url](https://tug.org/TUGboat/tb44-3/)) -->
 
-- samcarter & Joseph Wright (2023): "Beamer news: 2023", TUGboat 44.2 
-<!-- ([doi](), [url](https://tug.org/TUGboat/tb44-2/)) -->
+- samcarter & Joseph Wright (2023): "Beamer news: 2023", TUGboat 44.2 ([doi](https://doi.org/10.47397/tb/44-2/tb137samcarter-beamernews23), [url](https://tug.org/TUGboat/tb44-2/)) 
 
-- samcarter & Gert Fischer (2023): "Behind the scenes of the Great TikZlings Christmas Extravaganza", TUGboat 44.2 
-<!-- ([doi](), [url](https://tug.org/TUGboat/tb44-2/)) -->
+- samcarter & Gert Fischer (2023): "Behind the scenes of the Great TikZlings Christmas Extravaganza", TUGboat 44.2 ([doi](https://doi.org/10.47397/tb/44-2/tb137samcarter-tikzlings), [url](https://tug.org/TUGboat/tb44-2/)) 
 
 - samcarter (2021): "The TikZlings package", TUGboat 42.2 ([doi](https://doi.org/10.47397/tb/42-2/tb131samcarter-tikzlings), [url](https://tug.org/TUGboat/tb42-2/))
