@@ -72,8 +72,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 # TeX Puplications
 
-- samcarter (2023): "Book review: LaTeX Graphics with TikZ by Stefan Kottwitz", TUGboat 44.3 
-<!-- ([doi](), [url](https://tug.org/TUGboat/tb44-3/)) -->
+- samcarter (2023): "Book review: LaTeX Graphics with TikZ by Stefan Kottwitz", TUGboat 44.3 ([doi](https://doi.org/10.47397/tb/44-3/tb138reviews-kottwitz-tikz), [url](https://tug.org/TUGboat/tb44-3/))
 
 - samcarter & Joseph Wright (2023): "Beamer news: 2023", TUGboat 44.2 ([doi](https://doi.org/10.47397/tb/44-2/tb137samcarter-beamernews23), [url](https://tug.org/TUGboat/tb44-2/)) 
 
