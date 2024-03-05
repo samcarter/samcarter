@@ -21,6 +21,12 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 # TeX Talks
 
+## 2024
+
+**Dante Frühjahrstagung**
+
+- Neuigkeiten von Beamer
+
 ## 2023
 
 **BayTeX**
