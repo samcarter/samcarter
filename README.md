@@ -25,7 +25,8 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 **Dante Frühjahrstagung**
 
-- Neuigkeiten von Beamer
+- Neuigkeiten von Beamer ([slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_BeamerNews.pdf))
+- Das Moloch Beamer Theme - Ein Nutzerbericht ([slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_Moloch.pdf))
 
 ## 2023
 
