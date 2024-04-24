@@ -13,6 +13,7 @@ I'm also active on several Q&A sites, e.g.:
 - TikZducks ([CTAN](https://www.ctan.org/pkg/tikzducks), [github](https://github.com/samcarter/tikzducks))
 - TikZlings ([CTAN](https://www.ctan.org/pkg/tikzlings), [github](https://github.com/samcarter/tikzlings))
 - TikZbricks ([CTAN](https://www.ctan.org/pkg/tikzbricks), [github](https://github.com/samcarter/TikZbricks))
+- TikZmarmots ([CTAN](https://www.ctan.org/pkg/tikzmarmots), [github](https://github.com/samcarter/TikZmarmots))
 - Jigsaw ([CTAN](https://www.ctan.org/pkg/jigsaw), [github](https://github.com/samcarter/jigsaw))
 - Tcolorbox beamer inner theme ([CTAN](https://www.ctan.org/pkg/beamertheme-tcolorbox), [github](https://github.com/samcarter/beamertheme-tcolorbox))
 - Rainbow beamer colour theme ([CTAN](https://www.ctan.org/pkg/beamertheme-rainbow), [github](https://github.com/samcarter/beamertheme-rainbow))
