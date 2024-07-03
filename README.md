@@ -27,9 +27,9 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 **TUG Annual Meeting**
 
 - The moloch beamer theme (
-    [abstract](https://tug.org/tug2024/abstracts/samcarter-moloch.txt)
+    [abstract](https://tug.org/tug2024/abstracts/samcarter-moloch.txt),
+    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2024_Moloch.pdf)
   )
-
 
 **Dante Frühjahrstagung**
 
