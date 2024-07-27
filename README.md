@@ -17,6 +17,8 @@ I'm also active on several Q&A sites, e.g.:
 - Jigsaw ([CTAN](https://www.ctan.org/pkg/jigsaw), [github](https://github.com/samcarter/jigsaw))
 - Tcolorbox beamer inner theme ([CTAN](https://www.ctan.org/pkg/beamertheme-tcolorbox), [github](https://github.com/samcarter/beamertheme-tcolorbox))
 - Rainbow beamer colour theme ([CTAN](https://www.ctan.org/pkg/beamertheme-rainbow), [github](https://github.com/samcarter/beamertheme-rainbow))
+- pgfplotsthemebeamer ([CTAN](https://ctan.org/pkg/pgfplotsthemebeamer), [github](https://github.com/samcarter/pgfplotsthemebeamer))
+
 
 Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https://www.ctan.org/pkg/beamer), [github](https://github.com/josephwright/beamer)) and contributed to the sillypage package ([CTAN](https://www.ctan.org/pkg/sillypage), [github](https://github.com/cereda/sillypage)).
 
