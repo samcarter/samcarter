@@ -52,14 +52,21 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ## 2024
 
-**TUG Annual Meeting**
+**BayTeX - Neu-Ulm**
+
+- Das Moloch Beamer Theme - Ein Nutzerbericht (
+    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2024_Moloch.pdf)
+  )
+
+**TUG Annual Meeting - Prague**
 
 - The moloch beamer theme (
     [abstract](https://tug.org/tug2024/abstracts/samcarter-moloch.txt),
-    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2024_Moloch.pdf)
+    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2024_Moloch.pdf),
+    [video](https://www.youtube.com/watch?v=Pb6NsBWiuro)
   )
 
-**Dante Frühjahrstagung**
+**Dante Frühjahrstagung - Weimar**
 
 - Neuigkeiten von Beamer (
     [abstact](https://www.dante.de/veranstaltungen/dante2024/programm/vortraege/#samcarter-neuigkeiten),
@@ -72,21 +79,23 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ## 2023
 
-**BayTeX**
+**BayTeX - Kirchheim**
 
 - Neuigkeiten von Beamer (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2023_BeamerNews.pdf)
   )
 
-**TUG Annual Meeting**
+**TUG Annual Meeting - Bonn**
 - The tcolorbox inner beamer theme (
     [abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt), 
-    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf)
+    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf),
+    [video](https://www.youtube.com/watch?v=M0qWEutAPYg)
   )
 - Behind the scenes of the Great TikZlings Christmas Extravaganza (
     with Ulrike & Gert Fischer, Carla Maggi and Paulo Cereda, 
     [abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt), 
-    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Extravaganza.pdf)
+    [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Extravaganza.pdf),
+    [video](https://www.youtube.com/watch?v=ti2wNT6HxZo)
   )
 - Beamer news (
     with Joseph Wright, 
@@ -96,7 +105,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ## 2022
 
-**Dante Herbsttagung**
+**Dante Herbsttagung - virtual**
 - Das Tcolorbox Inner Theme für Beamer (
     [abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter2),
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Tcolorbox_Theme.pdf),
@@ -113,7 +122,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
     [video](https://vimeo.com/773292029), 
   )
 
-**TUG Annual Meeting**
+**TUG Annual Meeting - virtual**
 - The TikZbricks package (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2022_TikZbricks.pdf),
     [video](https://vimeo.com/773294015)
@@ -123,7 +132,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
     [video](https://vimeo.com/773294117)
   ) 
 
-**Dante Frühjahrstagung**
+**Dante Frühjahrstagung - Magdeburg**
 - Das Sillypage Paket (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Sillypage.pdf),
     [video](https://vimeo.com/773292271) 
@@ -131,19 +140,19 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ## 2021
 
-**TUG Annual Meeting**
+**TUG Annual Meeting - virtual**
 - News from the TikZ zoo (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2021_TikZzoo.pdf),
     [video](https://vimeo.com/773293865) 
   )
 
-**Journée GUTenberg**
+**Journée GUTenberg - virtual**
 - Une courte introduction aux extensions TikZducks et TikZlings (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/GUTenberg2021_TikZducks_et_TikZlings.pdf),
     [video](https://vimeo.com/773296726)
   )
 
-**Dante Frühjahrstagung**
+**Dante Frühjahrstagung - virtual**
 - Neuigkeiten aus dem TikZ Zoo (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2021_TikZzoo.pdf),
     [video](https://vimeo.com/773292978)
@@ -155,21 +164,21 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ## 2020
 
-**TUG Annual Meeting**
+**TUG Annual Meeting - virtual**
 - TopTeX - a new Q&A site for TeX (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2020_TopTeX.pdf),
     [video](https://vimeo.com/773293592)
   )
 
 ## 2018
-**TUG Annual Meeting**
+**TUG Annual Meeting - Rio de Janeiro**
 - A short introduction to the TikZducks package (
     with Paulo Cereda, 
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf),
     [video](https://www.youtube.com/watch?v=Ps2FK0q6mLc)
   )
 
-**Dante Frühjahrstagung**
+**Dante Frühjahrstagung - Passau**
 - TikZducks (
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf)
     )
