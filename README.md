@@ -183,7 +183,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
     [slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf)
     )
 
-# TeX Puplications
+# TeX Publications
 
 - samcarter (2023): "Book review: LaTeX Graphics with TikZ by Stefan Kottwitz", TUGboat 44.3 (
     [doi](https://doi.org/10.47397/tb/44-3/tb138reviews-kottwitz-tikz),
