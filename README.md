@@ -50,6 +50,12 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 # TeX Talks
 
+## 2025
+
+**Dante Frühjahrstagung - Darmstadt**
+
+- Von LaTeX zum Plätzchen – Ein Workflow zum Erstellen einfacher 3D Dateien
+
 ## 2024
 
 **BayTeX - Neu-Ulm**
