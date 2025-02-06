@@ -54,33 +54,35 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 **Dante Frühjahrstagung - Darmstadt**
 
-- Von LaTeX zum Plätzchen – Ein Workflow zum Erstellen einfacher 3D Dateien
+- Von LaTeX zum Plätzchen – Ein Workflow zum Erstellen einfacher 3D Dateien (
+  [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2025/programm/vortraege/)
+  )
 
 ## 2024
 
 **BayTeX - Neu-Ulm**
 
 - Das Moloch Beamer Theme - Ein Nutzerbericht (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2024_Moloch.pdf)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2024_Moloch.pdf)
   )
 
 **TUG Annual Meeting - Prague**
 
 - The moloch beamer theme (
-    [📄 abstract](https://tug.org/tug2024/abstracts/samcarter-moloch.txt),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2024_Moloch.pdf),
-    [🎬 video](https://www.youtube.com/watch?v=Pb6NsBWiuro)
+    [📄&nbsp;abstract](https://tug.org/tug2024/abstracts/samcarter-moloch.txt),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2024_Moloch.pdf),
+    [🎬&nbsp;video](https://www.youtube.com/watch?v=Pb6NsBWiuro)
   )
 
 **Dante Frühjahrstagung - Weimar**
 
 - Neuigkeiten von Beamer (
-    [📄 abstact](https://www.dante.de/veranstaltungen/dante2024/programm/vortraege/#samcarter-neuigkeiten),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_BeamerNews.pdf)
+    [📄&nbsp;abstact](https://www.dante.de/veranstaltungen/dante2024/programm/vortraege/#samcarter-neuigkeiten),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_BeamerNews.pdf)
   )
 - Das Moloch Beamer Theme - Ein Nutzerbericht (
-    [📄 abstract](https://www.dante.de/veranstaltungen/dante2024/programm/vortraege/#samcarter-beamer),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_Moloch.pdf)
+    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2024/programm/vortraege/#samcarter-beamer),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2024_Moloch.pdf)
   )
 
 ## 2023
@@ -88,105 +90,105 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 **BayTeX - Kirchheim**
 
 - Neuigkeiten von Beamer (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2023_BeamerNews.pdf)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/BayTeX2023_BeamerNews.pdf)
   )
 
 **TUG Annual Meeting - Bonn**
 - The tcolorbox inner beamer theme (
-    [📄 abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt), 
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf),
-    [🎬 video](https://www.youtube.com/watch?v=M0qWEutAPYg)
+    [📄&nbsp;abstract](https://tug.org/tug2023/abstracts/samcarter-beamertcolorbox.txt), 
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Tcolorbox.pdf),
+    [🎬&nbsp;video](https://www.youtube.com/watch?v=M0qWEutAPYg)
   )
 - Behind the scenes of the Great TikZlings Christmas Extravaganza (
     with Ulrike & Gert Fischer, Carla Maggi and Paulo Cereda, 
-    [📄 abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt), 
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Extravaganza.pdf),
-    [🎬 video](https://www.youtube.com/watch?v=ti2wNT6HxZo)
+    [📄&nbsp;abstract](https://tug.org/tug2023/abstracts/fischer-tikzlings.txt), 
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_Extravaganza.pdf),
+    [🎬&nbsp;video](https://www.youtube.com/watch?v=ti2wNT6HxZo)
   )
 - Beamer news (
     with Joseph Wright, 
-    [📄 abstract](https://tug.org/tug2023/abstracts/wright-beamernews.txt), 
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_BeamerNews.pdf)
+    [📄&nbsp;abstract](https://tug.org/tug2023/abstracts/wright-beamernews.txt), 
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2023_BeamerNews.pdf)
   )
 
 ## 2022
 
 **Dante Herbsttagung - virtual**
 - Das Tcolorbox Inner Theme für Beamer (
-    [📄 abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter2),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Tcolorbox_Theme.pdf),
-    [🎬 video](https://vimeo.com/773291199)
+    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter2),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Tcolorbox_Theme.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773291199)
   )
 - Das TikZbricks Paket (
-    [📄 abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter3),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_TikZbricks.pdf),
-    [🎬 video](https://vimeo.com/773291903)
+    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter3),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_TikZbricks.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773291903)
   )
 - Das Jigsaw Paket (
-    [📄 abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter1),
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Jigsaw.pdf),
-    [🎬 video](https://vimeo.com/773292029), 
+    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/herbst-2022/programm/vortraege/#samcarter1),
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Jigsaw.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773292029), 
   )
 
 **TUG Annual Meeting - virtual**
 - The TikZbricks package (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2022_TikZbricks.pdf),
-    [🎬 video](https://vimeo.com/773294015)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2022_TikZbricks.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773294015)
   )
 - The jigsaw package (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2022_Jigsaw.pdf),
-    [🎬 video](https://vimeo.com/773294117)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2022_Jigsaw.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773294117)
   ) 
 
 **Dante Frühjahrstagung - Magdeburg**
 - Das Sillypage Paket (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Sillypage.pdf),
-    [🎬 video](https://vimeo.com/773292271) 
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2022_Sillypage.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773292271) 
   )
 
 ## 2021
 
 **TUG Annual Meeting - virtual**
 - News from the TikZ zoo (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2021_TikZzoo.pdf),
-    [🎬 video](https://vimeo.com/773293865) 
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2021_TikZzoo.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773293865) 
   )
 
 **Journée GUTenberg - virtual**
 - Une courte introduction aux extensions TikZducks et TikZlings (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/GUTenberg2021_TikZducks_et_TikZlings.pdf),
-    [🎬 video](https://vimeo.com/773296726)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/GUTenberg2021_TikZducks_et_TikZlings.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773296726)
   )
 
 **Dante Frühjahrstagung - virtual**
 - Neuigkeiten aus dem TikZ Zoo (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2021_TikZzoo.pdf),
-    [🎬 video](https://vimeo.com/773292978)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2021_TikZzoo.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773292978)
   )
 - TopTeX - eine Q&A Seite für TeX (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2021_TopTeX.pdf),
-    [🎬 video](https://vimeo.com/773293022)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2021_TopTeX.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773293022)
   )
 
 ## 2020
 
 **TUG Annual Meeting - virtual**
 - TopTeX - a new Q&A site for TeX (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2020_TopTeX.pdf),
-    [🎬 video](https://vimeo.com/773293592)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2020_TopTeX.pdf),
+    [🎬&nbsp;video](https://vimeo.com/773293592)
   )
 
 ## 2018
 **TUG Annual Meeting - Rio de Janeiro**
 - A short introduction to the TikZducks package (
     with Paulo Cereda, 
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf),
-    [🎬 video](https://www.youtube.com/watch?v=Ps2FK0q6mLc)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/TUG2018_TikZducks.pdf),
+    [🎬&nbsp;video](https://www.youtube.com/watch?v=Ps2FK0q6mLc)
   )
 
 **Dante Frühjahrstagung - Passau**
 - TikZducks (
-    [🖼️ slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2018_TikZducks.pdf)
     )
 
 # TeX Publications
