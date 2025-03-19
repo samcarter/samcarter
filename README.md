@@ -46,7 +46,7 @@ I'm also active on several Q&A sites, e.g.:
     [github](https://github.com/samcarter/beamertheme-sam)
   )
 
-Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https://www.ctan.org/pkg/beamer), [github](https://github.com/josephwright/beamer)) and contributed to the sillypage package ([CTAN](https://www.ctan.org/pkg/sillypage), [github](https://github.com/cereda/sillypage)).
+Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https://www.ctan.org/pkg/beamer), [github](https://github.com/josephwright/beamer)).
 
 # TeX Talks
 
@@ -55,7 +55,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 **Dante Frühjahrstagung - Darmstadt**
 
 - Von LaTeX zum Plätzchen – Ein Workflow zum Erstellen einfacher 3D Dateien (
-    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2025/programm/vortraege/),
+    [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2025/programm/vortraege/#samcarter-3d),
     [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2025_Cookies.pdf)
   )
 
