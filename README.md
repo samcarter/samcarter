@@ -42,6 +42,10 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://ctan.org/pkg/pgfplotsthemebeamer), 
     [github](https://github.com/samcarter/pgfplotsthemebeamer)
   )
+- cistercian (
+    [CTAN](https://ctan.org/pkg/cistercian), 
+    [github](https://github.com/samcarter/cistercian)
+  )  
 - Personal beamer and doc theme (
     [github](https://github.com/samcarter/beamertheme-sam)
   )
