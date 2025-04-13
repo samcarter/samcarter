@@ -46,7 +46,7 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://ctan.org/pkg/cistercian), 
     [github](https://github.com/samcarter/cistercian)
   )  
-- Personal beamer and doc theme (
+- Personal beamer, xbeamer and doc theme (
     [github](https://github.com/samcarter/beamertheme-sam)
   )
 
