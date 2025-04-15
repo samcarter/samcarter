@@ -10,6 +10,8 @@ I'm also active on several Q&A sites, e.g.:
 
 # TeX Packages
 
+![](./ressouces/docs.png)
+
 - TikZducks (
     [CTAN](https://www.ctan.org/pkg/tikzducks), 
     [github](https://github.com/samcarter/tikzducks)
