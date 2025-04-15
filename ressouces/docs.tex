@@ -1,0 +1,32 @@
+% !TeX program = txs:///arara | txs:///view-log | txs:///view-pdf "?am).pdf"
+% arara: latexmk: {
+% arara: --> engine: pdflatex,
+% arara: --> }
+% arara: pdftocairo: {
+% arara: --> format: 'png',
+% arara: --> options: ['-r', '25', '-transp', '-singlefile'],
+% arara: --> }
+% arara: clean: { extensions: [ aux, fdb_latexmk, fls, log, synctex.gz ] }
+\documentclass[border=1cm]{standalone}
+
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{tikzpicture}[inner sep=0pt]
+\foreach \macro [count=\yi from 0] in {
+  cistercian,
+  jigsaw,
+  beamertheme-tcolorbox,
+  tikzducks,
+  beamertheme-rainbow,
+  tikzlings,
+  tikzmarmots,
+  tikzbricks,
+  pgfplotsthemebeamer%
+}{
+  \node[fill=white,draw=gray,anchor=south,rotate=-10+20*sin(40+30*\yi)] at (\yi*3cm,\yi*1.5cm) {\includegraphics[trim={2cm 0cm 2cm 0cm},clip,page=2]{~/Life/latex/\macro/\macro-doc.pdf}};
+}
+\end{tikzpicture}
+
+\end{document}
