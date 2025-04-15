@@ -56,6 +56,8 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 # TeX Talks
 
+![](./ressouces/talks.png)
+
 ## 2025
 
 **Dante Frühjahrstagung - Darmstadt**
