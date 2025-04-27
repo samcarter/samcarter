@@ -64,7 +64,8 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 - Von LaTeX zum Plätzchen – Ein Workflow zum Erstellen einfacher 3D Dateien (
     [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2025/programm/vortraege/#samcarter-3d),
-    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2025_Cookies.pdf)
+    [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2025_Cookies.pdf),
+    [🎬&nbsp;video](https://www.youtube.com/watch?v=_ZiabtV5Od0)
   )
 
 ## 2024
