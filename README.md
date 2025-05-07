@@ -205,7 +205,11 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 ![](./ressouces/pubs.png)
 
-- samcarter & Ulrike Fischer (2025): "Cookie cutters: An example workflow of how to generate simple 3D-printable objects from LaTeX graphics", submitted to TUGboat
+- samcarter & Ulrike Fischer (2025): "Cookie cutters: An example workflow of how to generate simple 3D-printable objects from LaTeX graphics", TUGboat 46.1 (
+    [doi](https://doi.org/10.47397/tb/46-1/tb142samcarter-cookies),
+    [url](https://tug.org/TUGboat/tb46-1/)
+  )
+  
 - samcarter & Ulrike Fischer (2025): "Von LaTeX zum Plätzchen", submitted to Die TEXnische Komödie
 - samcarter (2023): "Book review: LaTeX Graphics with TikZ by Stefan Kottwitz", TUGboat 44.3 (
     [doi](https://doi.org/10.47397/tb/44-3/tb138reviews-kottwitz-tikz),
