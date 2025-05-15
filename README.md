@@ -40,6 +40,9 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://www.ctan.org/pkg/beamertheme-rainbow), 
     [github](https://github.com/samcarter/beamertheme-rainbow)
   )
+- Spectrum beamer theme (
+    [github](https://github.com/samcarter/beamertheme-spectrum)
+  )  
 - pgfplotsthemebeamer (
     [CTAN](https://ctan.org/pkg/pgfplotsthemebeamer), 
     [github](https://github.com/samcarter/pgfplotsthemebeamer)
