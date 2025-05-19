@@ -41,6 +41,7 @@ I'm also active on several Q&A sites, e.g.:
     [github](https://github.com/samcarter/beamertheme-rainbow)
   )
 - Spectrum beamer theme (
+    [CTAN](https://www.ctan.org/pkg/beamertheme-spectrum), 
     [github](https://github.com/samcarter/beamertheme-spectrum)
   )  
 - pgfplotsthemebeamer (
