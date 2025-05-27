@@ -32,7 +32,7 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://www.ctan.org/pkg/jigsaw), 
     [github](https://github.com/samcarter/jigsaw)
   )
-- Tcolorbox beamer inner theme (
+- Tcolorbox (x)beamer inner theme (
     [CTAN](https://www.ctan.org/pkg/beamertheme-tcolorbox), 
     [github](https://github.com/samcarter/beamertheme-tcolorbox)
   )
