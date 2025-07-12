@@ -32,7 +32,7 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://www.ctan.org/pkg/jigsaw), 
     [github](https://github.com/samcarter/jigsaw)
   )
-- Tcolorbox (x)beamer inner theme (
+- Tcolorbox beamer/ltx-talk inner theme (
     [CTAN](https://www.ctan.org/pkg/beamertheme-tcolorbox), 
     [github](https://github.com/samcarter/beamertheme-tcolorbox)
   )
@@ -40,7 +40,7 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://www.ctan.org/pkg/beamertheme-rainbow), 
     [github](https://github.com/samcarter/beamertheme-rainbow)
   )
-- Spectrum (x)beamer theme (
+- Spectrum beamer/ltx-talk theme (
     [CTAN](https://www.ctan.org/pkg/beamertheme-spectrum), 
     [github](https://github.com/samcarter/beamertheme-spectrum)
   )  
