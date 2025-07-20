@@ -2,8 +2,6 @@
 
 You can find me on Mastodon: [@samcarter@wetdry.world](https://wetdry.world/@samcarter)
 
-<a rel="me" href="https://wetdry.world/@samcarter">Mastodon</a>
-
 I'm also active on several Q&A sites, e.g.:
 
 - [TopAnswers TeX](https://topanswers.xyz/tex)
