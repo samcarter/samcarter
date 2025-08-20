@@ -1,6 +1,6 @@
 # Contact
 
-You can find me on Mastodon: [@samcarter@wetdry.world](https://wetdry.world/@samcarter)
+You can find me on Mastodon: [@samcarter@infosec.exchange](https://infosec.exchange/@samcarter)
 
 I'm also active on several Q&A sites, e.g.:
 
