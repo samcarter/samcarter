@@ -52,6 +52,10 @@ I'm also active on several Q&A sites, e.g.:
     [CTAN](https://ctan.org/pkg/cistercian), 
     [github](https://github.com/samcarter/cistercian)
   )  
+- panda (
+  [CTAN](https://ctan.org/pkg/panda), 
+  [github](https://github.com/samcarter/panda)
+)
 
 Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https://www.ctan.org/pkg/beamer), [github](https://github.com/josephwright/beamer)).
 
