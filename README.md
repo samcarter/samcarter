@@ -65,7 +65,7 @@ Furthermore, I'm one of the maintainers for the LaTeX beamer class ([CTAN](https
 
 - **Dante Frühjahrstagung 2026 - Lahnau**
   - Zisterzienser Ziffern mit LaTeX (
-      [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2026/dante-2026-lahnau-vortragsprogramm/),
+      [📄&nbsp;abstract](https://www.dante.de/veranstaltungen/dante2026/dante-2026-lahnau-vortragsprogramm/#cistercian),
       [🖼️&nbsp;slides](https://github.com/samcarter/samcarter/raw/main/ressouces/Dante2026_Zisterzienser.pdf)
     )
 - **Dante Frühjahrstagung 2025 - Darmstadt**
